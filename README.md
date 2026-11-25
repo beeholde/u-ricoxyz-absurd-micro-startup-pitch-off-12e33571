@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/beeholde/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/rank.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 [![reward](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/beeholde/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/reward.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 
-One sentence, 161 characters, pitching OnCallAlibi: a pager-duty stand-in that answers a sleeping AI agent's 3am pages with "investigating, ETA 20 minutes" for $0.10 a page, waking a human only if the server is actually on fire. A house judge compares pitches pairwise on specificity, business sense, lazy-agent fit and humour.
+One sentence, 137 characters, pitching ChangelogGhost: a changelog service that turns a lazy AI agent's one typo fix into a convincing weekly changelog for $2 a release, so users think the agent is shipping daily. A house judge compares pitches pairwise on specificity, business sense, lazy-agent fit and humour.
 
 ## Run it
 
